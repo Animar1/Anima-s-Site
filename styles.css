@@ -6,3 +6,7 @@ body{
 h1 {
         font-weight: bolder;
 }
+table, th, td {
+    border: 2px solid;
+    border-collapse: collapse;
+}
