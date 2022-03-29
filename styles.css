@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&display=swap');
 body{
     font-family: 'League Spartan', sans-serif;
-    
+    color: azure;
 }
 h1 {
         font-weight: bolder;
@@ -10,3 +10,8 @@ table, th, td {
     border: 2px solid;
     border-collapse: collapse;
 }
+body{
+
+background-color: #0A2229;
+}
+
